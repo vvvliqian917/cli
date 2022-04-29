@@ -1,0 +1,7 @@
+{
+  "li-template":{
+    "description": "开发库的模板项目",
+    "git": "git@github.com:vvvliqian917/lib-template.git",
+    "branch": "dev"
+  }
+}
